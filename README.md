@@ -6,7 +6,7 @@ Repositorio de trabajos prácticos de Visión por Computadora I (CEIA - FIUBA).
 
 | TP | Notebook | Estado |
 |----|----------|--------|
-| 1 | [`tp1.ipynb`](tp1.ipynb) | En curso |
+| 1 | [`tp1.ipynb`](TP1/tp1.ipynb) | En curso |
 | 2 | — | Pendiente |
 | 3 | — | Pendiente |
 

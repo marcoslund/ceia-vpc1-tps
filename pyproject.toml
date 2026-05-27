@@ -1,0 +1,13 @@
+[project]
+name = "ceia-vpc1-tp1"
+version = "0.1.0"
+description = "Trabajo práctico 1 - Visión por Computadora I (CEIA)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.0",
+    "numpy>=2.0.0",
+    "opencv-python>=4.10.0",
+]

@@ -1,7 +1,7 @@
 [project]
-name = "ceia-vpc1-tp1"
+name = "ceia-vpc1-tps"
 version = "0.1.0"
-description = "Trabajo práctico 1 - Visión por Computadora I (CEIA)"
+description = "Trabajos prácticos de Visión por Computadora I (CEIA)"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

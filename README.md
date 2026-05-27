@@ -1,6 +1,14 @@
 # ceia-vpc1-tps
 
-Trabajo práctico 1 de Visión por Computadora I (CEIA - FIUBA).
+Repositorio de trabajos prácticos de Visión por Computadora I (CEIA - FIUBA).
+
+## Trabajos prácticos
+
+| TP | Notebook | Estado |
+|----|----------|--------|
+| 1 | [`tp1.ipynb`](tp1.ipynb) | En curso |
+| 2 | — | Pendiente |
+| 3 | — | Pendiente |
 
 ## Setup
 
@@ -15,8 +23,6 @@ Para abrir Jupyter Lab:
 ```bash
 uv run jupyter lab
 ```
-
-El notebook principal es [`tp1.ipynb`](tp1.ipynb).
 
 ## Dependencias
 

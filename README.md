@@ -2,6 +2,13 @@
 
 Repositorio de trabajos prácticos de Visión por Computadora I (CEIA - FIUBA).
 
+## Integrantes
+
+- Agustín Biancardi (a2403)
+- Marcos Lund (a2408)
+- Alan Lihuen Vignolo (a2418)
+- Tomás Agustín Mc Nally (a2420)
+
 ## Trabajos prácticos
 
 | TP | Notebook | Estado |

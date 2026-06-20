@@ -15,7 +15,7 @@ Repositorio de trabajos prácticos de Visión por Computadora I (CEIA - FIUBA).
 |----|----------|--------|
 | 1 | [`tp1.ipynb`](TP1/tp1.ipynb) | Finalizado |
 | 2 | [`tp2.ipynb`](TP2/tp2.ipynb) | Finalizado |
-| 3 | — | Pendiente |
+| 3 | [`tp3.ipynb`](TP3/tp3.ipynb) | Pendiente |
 
 ## Setup
 
